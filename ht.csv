@@ -1,0 +1,7 @@
+PATIENT_ID,CHEST_PAIN?,MALE?,SMOKES?,EXERCISES?,HEART_ATTACK?
+1,yes,yes,no,yes,yes
+2,yes,yes,yes,no,yes
+3,no,no,yes,no,yes
+4,no,yes,no,yes,no
+5,yes,no,yes,yes,yes
+6,no,yes,yes,yes,no
